@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Júlia.
 - 👀 I’m interested in Machine learning.
-- 🌱 I’m currently learning C language.
+- 🌱 I’m currently learning C language and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
