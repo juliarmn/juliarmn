@@ -1,4 +1,4 @@
-Olá, sou a Júlia Rodrigues 😸
+<h1 align="left">Olá, sou Júlia Rodrigues 😸 </h1> 
 
  <div>
   <a href="https://github.com/juliarmn">
