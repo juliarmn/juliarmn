@@ -1,6 +1,6 @@
 <h1 align="left">Olá, sou Júlia Rodrigues 😸 </h1> 
 
-Aprendendo html, css, scss e Java Script.
+Aprendendo HTML, CSS, SASS e Java Script.
 
 <div>
   <a href="https://github.com/deigo-lps">
