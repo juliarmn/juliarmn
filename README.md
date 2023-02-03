@@ -1,5 +1,7 @@
 <h1 align="left">Olá, sou Júlia Rodrigues 😸 </h1> 
 
+Aprendendo html, css, scss e Java Script.
+
 <div>
   <a href="https://github.com/deigo-lps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliarmn&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
