@@ -1,8 +1,7 @@
 <h1 align="left">Olá, sou Júlia Rodrigues 😸 </h1> 
 
 Aprendendo HTML, CSS, SASS e Java Script.
-
-<br>Iniciando um projeto de Inteligência Artificial. <\br>
+<br>Iniciando um projeto de Inteligência Artificial.
 
 <div>
   <a href="https://github.com/deigo-lps">
