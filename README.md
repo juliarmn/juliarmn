@@ -1,7 +1,7 @@
 <h1 align="left">Olá, sou Júlia Rodrigues 😸 </h1> 
 
 Aprendendo HTML, CSS, SASS e Java Script.
-<br>Iniciando um projeto de Inteligência Artificial.
+<br>Iniciando um projeto de Inteligência Artificial aplicada em algoritmos de Sensoriamento Remoto.
 
 <div>
   <a href="https://github.com/deigo-lps">
