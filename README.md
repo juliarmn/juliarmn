@@ -2,7 +2,7 @@
 
 Estudante de Ciências da Computação da Unesp (3º semestre).
 <br>Aprendendo HTML, CSS, SASS e Java Script.
-<br>Iniciando um projeto de Inteligência Artificial aplicada em algoritmos de Sensoriamento Remoto.
+<br>Iniciando um projeto de Inteligência Artificial aplicada em algoritmos de Sensoriamento Remoto (Python).
 
 <div>
   <a href="https://github.com/deigo-lps">
