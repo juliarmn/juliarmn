@@ -13,7 +13,10 @@ Estudante de Ciências da Computação da Unesp (3º semestre).
   <br>
   
   <div style="display: inline_block">
-  
+    
+   <img style = "padding:0 1 rem 0 0" height="50" width= "60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+   <img style = "padding:0 1 rem 0 0" height="50" width= "60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img style = "padding:0 1 rem 0 0" height="50" width= "60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
