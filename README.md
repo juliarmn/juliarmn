@@ -1,6 +1,6 @@
 <h1 align="left">Olá, sou Júlia Rodrigues 😸 </h1> 
 
-Estudante de Ciência da Computação da Unesp (3º semestre).
+Estudante de Ciência da Computação na Unesp (3º semestre).
 <br>Aprendendo HTML, CSS, SASS e JavaScript (Front).
 <br>Começando um Projeto de Iniciação Científica sobre Inteligência Artificial aplicada em algoritmos de Sensoriamento Remoto (Python).
 
