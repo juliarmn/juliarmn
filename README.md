@@ -7,7 +7,7 @@ Estudante de Ciência da Computação na Unesp (3º semestre).
 <div>
   <a href="https://github.com/juliarmn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliarmn&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarmn&layout=compact&langs_count=7&theme=bear"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarmn&layout=compact&langs_count=9&count_private=true&theme=bear"/>
  </div>
   
   <br>
