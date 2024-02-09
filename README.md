@@ -1,8 +1,7 @@
 <h1 align="left">Olá, sou Júlia Rodrigues :carousel_horse: </h1> 
 
-Estudante de Ciência da Computação na Unesp (4º semestre).
-<br>Aprendendo Front (react), assembly e matlab.
-<br>Começando um Projeto de Iniciação Científica sobre Inteligência Artificial aplicada em algoritmos de Sensoriamento Remoto (Python).
+Estudante de Ciência da Computação na Unesp (5º semestre).
+<br>Aprendendo Front (react).
 
 <div>
   <a href="https://github.com/juliarmn">
