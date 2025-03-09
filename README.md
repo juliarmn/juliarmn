@@ -13,20 +13,25 @@ Estudante de Ciência da Computação na Unesp (7º semestre).
   <div style="display: inline_block">
     
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+   <img style="padding:0 1rem 0 0" height="50" width="60" src="(https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg)">
+   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg">
+   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg">
-   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg">
-   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-
+   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg">
+   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+   
   </div>
 
   ##
