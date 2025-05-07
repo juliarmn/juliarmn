@@ -16,7 +16,7 @@ Estudante de Ciência da Computação na Unesp (7º semestre).
     
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
