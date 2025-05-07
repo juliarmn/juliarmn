@@ -29,6 +29,7 @@ Estudante de Ciência da Computação na Unesp (7º semestre).
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
    <img style="padding:0 1rem 0 0" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
