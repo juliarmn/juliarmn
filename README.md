@@ -3,6 +3,7 @@
 Estudante de Ciência da Computação na Unesp (7º semestre).
 
 - Aprendendo Vue.js
+- Aprendendo Quantum ML
 
 <div>
   <a href="https://github.com/juliarmn">
